@@ -1,16 +1,186 @@
-## Hi there 👋
+<!-- Animated Intro -->
+<h1 align="center">Hi 👋, I'm Anurag Patel</h1>
+<h3 align="center">Full Stack Developer • MERN Stack • AI Applications</h3>
 
-<!--
-**itsanuragpatel1/itsanuragpatel1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+Building modern web applications powered by <b>AI, scalable APIs, and clean UI</b>.
+</p>
 
-Here are some ideas to get you started:
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?font=Inter&size=22&duration=3000&color=00A8FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer;MERN+Stack+Engineer;Building+AI+Powered+Web+Apps;C%2B%2B+%7C+DSA+%7C+React+%7C+Node.js" />
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+# 🌐 Portfolio
+
+🚀 **Personal Website**
+
+🔗 https://anuragpatel.vercel.app/
+
+Explore my projects, technical work, and development journey.
+
+---
+
+# 🚀 About Me
+
+💻 Full-Stack Developer passionate about building **AI-powered web applications** and scalable backend systems.
+
+⚡ Strong foundation in **C++, Data Structures & Algorithms, and the MERN stack**
+
+🧠 Experienced in integrating **Generative AI, multimodal systems, and modern APIs**
+
+🌱 Currently exploring **AI-driven products and advanced backend architecture**
+
+🎓 B.Tech CSE (2023–2027)  
+Government Engineering College, Rewa
+
+---
+
+# 🛠 Tech Stack
+
+### Programming
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,js,python" />
+</p>
+
+### Frontend
+<p>
+<img src="https://skillicons.dev/icons?i=react,tailwind,html,css,vite" />
+</p>
+
+### Backend
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Database
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb" />
+</p>
+
+### Tools & Deployment
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vercel" />
+</p>
+
+### AI & APIs
+- Gemini LLM  
+- Multimodal AI (Text, Image, Voice)  
+- Image Generation & Editing APIs  
+
+---
+
+# ⭐ Featured Projects
+
+## 🧠 Just Prompt — AI Image Editor & Generator
+
+AI-powered SaaS platform for **image editing using text prompts and presets**
+
+### Key Features
+
+• AI Image Editing with text prompts  
+• Face Fix, AI Upscaling, Auto Mode  
+• Version history & project workflow  
+• Google OAuth + Email OTP authentication  
+• Responsive React UI  
+
+### Tech Stack
+
+`MERN • Gemini 2.5 Flash • FlyMyAI • Photocraft • Claid`
+
+🔗 Live  
+https://justprompt-sable.vercel.app/
+
+🔗 GitHub  
+https://github.com/itsanuragpatel1/just-prompt
+
+---
+
+## 🚗 CarRental — Full Stack Rental Platform
+
+Full-stack application for **vehicle booking and rental management**
+
+### Features
+
+• Vehicle browsing and booking system  
+• Owner dashboard for listings and revenue  
+• Role-based authentication  
+• Image uploads with Cloudinary  
+• Secure REST API backend  
+
+### Tech Stack
+
+`React • Node.js • Express • MongoDB • JWT • Cloudinary`
+
+🔗 Live  
+https://car-rental-client-beta.vercel.app/
+
+🔗 GitHub  
+https://github.com/itsanuragpatel1/car-rental
+
+
+---
+
+
+# 💼 Experience
+
+### Full Stack Developer — Freelance  
+**Reneson (2025)**
+
+• Redesigned and developed the company's full website during rebranding  
+• Built a **service portfolio platform with admin dashboard**  
+• Implemented secure APIs and backend architecture  
+• Managed **full deployment, hosting, and production release**
+
+🌐 https://reneson.com
+
+---
+
+# 🏆 Achievements
+
+🏅 Top Performer — **Code War Fest X3.0**
+
+🧠 Cleared — **TCS CodeVita S13**
+
+🧠 Solved **200+ Data Structures & Algorithms problems** across platforms
+
+---
+
+# 📊 GitHub Stats
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api?username=itsanuragpatel1&show_icons=true&theme=tokyonight"/>
+</p>
+
+<p align="center">
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsanuragpatel1&layout=compact&theme=tokyonight"/>
+</p>
+
+---
+
+# 🤝 Connect With Me
+
+<p>
+<a href="mailto:anuragpateloriginal@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/itsanuragpatel">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://leetcode.com/u/itsanuragpatel">
+<img src="https://img.shields.io/badge/LeetCode-FE7A16?style=for-the-badge&logo=leetcode&logoColor=white"/>
+</a>
+
+<a href="https://github.com/itsanuragpatel1">
+<img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+</p>
+
+---
+
+<p align="center">
+💡 <i>"Building real-world products using AI and modern web technologies."</i>
+</p>
