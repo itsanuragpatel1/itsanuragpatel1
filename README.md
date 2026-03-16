@@ -12,13 +12,15 @@ Building modern web applications powered by <b>AI, scalable APIs, and clean UI</
 
 ---
 
-# 🌐 Portfolio
+## 🌐 Portfolio
 
-🚀 **Personal Website**
+🚀 I showcase my projects, technical work, and development journey on my personal website.
 
-🔗 https://anuragpatel.vercel.app/
-
-Explore my projects, technical work, and development journey.
+<p align="left">
+<a href="https://anuragpatel.vercel.app/">
+<img src="https://img.shields.io/badge/Visit%20My%20Portfolio%20↗-000000?style=for-the-badge&logoColor=white"/>
+</a>
+</p>
 
 ---
 
@@ -87,13 +89,21 @@ AI-powered SaaS platform for **image editing using text prompts and presets**
 
 ### Tech Stack
 
-`MERN • Gemini 2.5 Flash • FlyMyAI • Photocraft • Claid`
+`MongoDB` • `Express.js` • `React` • `Node.js`  
+`Gemini 2.5 Flash` • `FlyMyAI` • `Photocraft` • `Claid`
 
-🔗 Live  
-https://justprompt-sable.vercel.app/
+### 🔗 Links
 
-🔗 GitHub  
-https://github.com/itsanuragpatel1/just-prompt
+<p align="left">
+
+<a href="https://justprompt-sable.vercel.app/">
+<img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://github.com/itsanuragpatel1/just-prompt">
+<img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
@@ -111,14 +121,20 @@ Full-stack application for **vehicle booking and rental management**
 
 ### Tech Stack
 
-`React • Node.js • Express • MongoDB • JWT • Cloudinary`
+`React` • `Node.js` • `Express` • `MongoDB` • `JWT` • `Cloudinary`
 
-🔗 Live  
-https://car-rental-client-beta.vercel.app/
+### 🔗 Links
 
-🔗 GitHub  
-https://github.com/itsanuragpatel1/car-rental
+<p align="left">
 
+<a href="https://car-rental-client-beta.vercel.app/">
+<img src="https://img.shields.io/badge/Live-000000?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+</a>
+<a href="https://github.com/itsanuragpatel1/car-rental">
+<img src="https://img.shields.io/badge/View%20Code-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+</p>
 
 ---
 
@@ -132,8 +148,6 @@ https://github.com/itsanuragpatel1/car-rental
 • Built a **service portfolio platform with admin dashboard**  
 • Implemented secure APIs and backend architecture  
 • Managed **full deployment, hosting, and production release**
-
-🌐 https://reneson.com
 
 ---
 
@@ -182,5 +196,5 @@ https://github.com/itsanuragpatel1/car-rental
 ---
 
 <p align="center">
-💡 <i>"Building real-world products using AI and modern web technologies."</i>
+💡 <i>"Building real-world products using modern web technologies."</i>
 </p>
